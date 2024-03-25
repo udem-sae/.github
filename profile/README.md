@@ -1,6 +1,6 @@
 # UdeM-SAÉ
 
-### Attention! Ceci est un goupe privé.
+### Attention! Ceci est un groupe privé.
 L'accès a ce groupe est strictement interdit aux utilisateurs non-autorisés.
 
 ### Warning! This is a private group.
