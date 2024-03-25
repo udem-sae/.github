@@ -1,4 +1,4 @@
-# udem-sae
+# UdeM-SAÉ
 
 ### Attention! Ceci est un goupe privé.
 L'accès a ce groupe est strictement interdit aux utilisateurs non-autorisés.
