@@ -1,4 +1,4 @@
-# UdeM-SAÉ
+# UdeM-SVE
 
 ### Attention! Ceci est un groupe privé.
 L'accès a ce groupe est strictement interdit aux utilisateurs non-autorisés.
