@@ -1,5 +1,5 @@
-## Résumé
-[Expliquez ici en 1-2 phrase le but de la PR]
+## Contexte
+[Expliquez ici en 1-2 phrases le but de la PR]
 
 ## Type de changement
 - [ ] Nouvelle fonctionnalité
